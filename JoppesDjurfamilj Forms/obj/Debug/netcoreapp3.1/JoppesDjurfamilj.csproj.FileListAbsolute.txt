@@ -1,0 +1,16 @@
+C:\Users\robin\source\repos\JoppesDjurfamilj\JoppesDjurfamilj\bin\Debug\netcoreapp3.1\JoppesDjurfamilj.exe
+C:\Users\robin\source\repos\JoppesDjurfamilj\JoppesDjurfamilj\bin\Debug\netcoreapp3.1\JoppesDjurfamilj.deps.json
+C:\Users\robin\source\repos\JoppesDjurfamilj\JoppesDjurfamilj\bin\Debug\netcoreapp3.1\JoppesDjurfamilj.runtimeconfig.json
+C:\Users\robin\source\repos\JoppesDjurfamilj\JoppesDjurfamilj\bin\Debug\netcoreapp3.1\JoppesDjurfamilj.runtimeconfig.dev.json
+C:\Users\robin\source\repos\JoppesDjurfamilj\JoppesDjurfamilj\bin\Debug\netcoreapp3.1\JoppesDjurfamilj.dll
+C:\Users\robin\source\repos\JoppesDjurfamilj\JoppesDjurfamilj\bin\Debug\netcoreapp3.1\JoppesDjurfamilj.pdb
+C:\Users\robin\source\repos\JoppesDjurfamilj\JoppesDjurfamilj\obj\Debug\netcoreapp3.1\JoppesDjurfamilj.Form1.resources
+C:\Users\robin\source\repos\JoppesDjurfamilj\JoppesDjurfamilj\obj\Debug\netcoreapp3.1\JoppesDjurfamilj.csproj.GenerateResource.cache
+C:\Users\robin\source\repos\JoppesDjurfamilj\JoppesDjurfamilj\obj\Debug\netcoreapp3.1\JoppesDjurfamilj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robin\source\repos\JoppesDjurfamilj\JoppesDjurfamilj\obj\Debug\netcoreapp3.1\JoppesDjurfamilj.AssemblyInfoInputs.cache
+C:\Users\robin\source\repos\JoppesDjurfamilj\JoppesDjurfamilj\obj\Debug\netcoreapp3.1\JoppesDjurfamilj.AssemblyInfo.cs
+C:\Users\robin\source\repos\JoppesDjurfamilj\JoppesDjurfamilj\obj\Debug\netcoreapp3.1\JoppesDjurfamilj.csproj.CoreCompileInputs.cache
+C:\Users\robin\source\repos\JoppesDjurfamilj\JoppesDjurfamilj\obj\Debug\netcoreapp3.1\JoppesDjurfamilj.dll
+C:\Users\robin\source\repos\JoppesDjurfamilj\JoppesDjurfamilj\obj\Debug\netcoreapp3.1\JoppesDjurfamilj.pdb
+C:\Users\robin\source\repos\JoppesDjurfamilj\JoppesDjurfamilj\obj\Debug\netcoreapp3.1\JoppesDjurfamilj.genruntimeconfig.cache
+C:\Users\robin\source\repos\JoppesDjurfamilj\JoppesDjurfamilj\obj\Debug\netcoreapp3.1\JoppesDjurfamilj.csproj.AssemblyReference.cache
